@@ -1,0 +1,15 @@
+{
+  "name":"A21000000I-000011",
+  "title":"死因統計",
+  "description":"提供我國死因次級資料，供各界使用",
+  "license":"政府資料開放授權條款-第1版",
+  "homepage":null,
+  "sources":{
+    "name":"衛生福利部"
+  },
+  "author":{
+    "name":"施先生 先生",
+    "email":"stbear234@mohw.gov.tw"
+  },
+  "keywords":"死因統計、十大死因、生命統計"
+}
